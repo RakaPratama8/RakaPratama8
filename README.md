@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=Raka%20Pratama&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Raka Pratama, Data &amp; AI Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+turning+raw+data+into+decisions;%3E+building+AI+that+actually+ships;%3E+security+awareness+%26+cyber+drills;%3E+data+engineering+%7C+IoT+%7C+system+design" alt="Typing SVG" />
@@ -134,6 +134,5 @@ Open to discussions and collaborations on data, AI and cybersecurity.
 $ _
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
