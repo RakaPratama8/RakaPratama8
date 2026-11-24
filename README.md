@@ -39,11 +39,11 @@ class RakaPratama:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,r,sql,js,ts,java,c,php,swift,bash&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,r,js,ts,java,c,php,swift,bash&theme=dark" alt="languages" />
 
 **AI / ML / Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter&theme=dark" alt="ml" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ml" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" height="48" />
 
 **Software Engineering**
 
