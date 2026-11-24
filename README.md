@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=RakaPratama8&color=00ff9c&style=for-the-badge&label=VISITORS)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRakaPratama8&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=0f2027&labelColor=00ff9c&logo=github&logoColor=black)
 ![Followers](https://img.shields.io/github/followers/RakaPratama8?style=for-the-badge&color=0f2027&labelColor=00ff9c&logo=github&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/RakaPratama8?style=for-the-badge&color=0f2027&labelColor=00ff9c&logo=github&logoColor=black)
 
@@ -100,8 +100,6 @@ class RakaPratama:
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaPratama8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=RakaPratama8&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RakaPratama8&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 
 </div>
 
